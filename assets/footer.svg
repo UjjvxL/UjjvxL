@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" role="img" aria-label="Build, test, learn, ship">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#071018"/><stop offset=".5" stop-color="#0b1220"/><stop offset="1" stop-color="#071818"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+  <rect width="900" height="100" rx="14" fill="url(#bg)" stroke="#1e293b"/>
+  <path d="M90 50H810" stroke="#334155" stroke-dasharray="3 8"/>
+  <g font-family="'JetBrains Mono',Consolas,monospace" text-anchor="middle">
+    <g><circle cx="175" cy="50" r="6" fill="#38bdf8"/><text x="175" y="82" fill="#94a3b8" font-size="11">BUILD</text></g>
+    <g><circle cx="360" cy="50" r="6" fill="#2dd4bf"/><text x="360" y="82" fill="#94a3b8" font-size="11">TEST</text></g>
+    <g><circle cx="540" cy="50" r="6" fill="#38bdf8"/><text x="540" y="82" fill="#94a3b8" font-size="11">LEARN</text></g>
+    <g><circle cx="725" cy="50" r="6" fill="#818cf8"/><text x="725" y="82" fill="#94a3b8" font-size="11">SHIP</text></g>
+  </g>
+  <circle cx="175" cy="50" r="11" fill="none" stroke="url(#line)"><animate attributeName="cx" values="175;360;540;725;175" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="1.25s" repeatCount="indefinite"/></circle>
+</svg>

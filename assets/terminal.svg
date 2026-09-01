@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
+  <title id="title">Ujjval's animated system profile</title>
+  <desc id="desc">A terminal window listing role, education, focus, and current project.</desc>
+  <defs>
+    <linearGradient id="window" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#081019"/>
+    </linearGradient>
+    <filter id="softGlow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="898" height="268" rx="14" fill="url(#window)" stroke="#334155"/>
+  <path d="M1 42H899" stroke="#334155"/>
+  <circle cx="24" cy="22" r="5" fill="#fb7185"/>
+  <circle cx="43" cy="22" r="5" fill="#facc15"/>
+  <circle cx="62" cy="22" r="5" fill="#2dd4bf"/>
+  <text x="450" y="27" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#64748b">ujjval@product-lab — profile</text>
+
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="14">
+    <text x="28" y="73" fill="#2dd4bf">➜</text>
+    <text x="51" y="73" fill="#38bdf8">~</text>
+    <text x="72" y="73" fill="#e2e8f0">whoami --verbose</text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.12;.2;1" dur="4.8s" repeatCount="indefinite"/>
+      <text x="52" y="108" fill="#64748b">name</text><text x="178" y="108" fill="#f8fafc">Ujjval Dubey</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.25;.33;1" dur="4.8s" repeatCount="indefinite"/>
+      <text x="52" y="138" fill="#64748b">role</text><text x="178" y="138" fill="#f8fafc">AI Developer · Full-Stack Builder · IoT</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.39;.47;1" dur="4.8s" repeatCount="indefinite"/>
+      <text x="52" y="168" fill="#64748b">education</text><text x="178" y="168" fill="#f8fafc">B.Tech ECE @ IILM University</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.53;.61;1" dur="4.8s" repeatCount="indefinite"/>
+      <text x="52" y="198" fill="#64748b">building</text><text x="178" y="198" fill="#38bdf8">Pawlytics</text><text x="265" y="198" fill="#94a3b8">— conflict intelligence for safer cities</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.67;.75;1" dur="4.8s" repeatCount="indefinite"/>
+      <text x="52" y="228" fill="#64748b">status</text><circle cx="184" cy="223" r="4" fill="#2dd4bf" filter="url(#softGlow)"/><text x="197" y="228" fill="#2dd4bf">online — learning, building, shipping</text>
+    </g>
+    <rect x="52" y="246" width="9" height="16" rx="1" fill="#38bdf8">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
