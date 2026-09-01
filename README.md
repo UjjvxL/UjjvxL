@@ -130,25 +130,23 @@ IoT + Embedded      Product Development   Startup Building
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjvxL&theme=github_dark" width="100%" alt="Ujjval's GitHub contribution overview" />
+
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjvxL&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2DD4BF&rank_icon=github" width="100%" alt="Ujjval's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjvxL&theme=github_dark" width="100%" alt="Ujjval's GitHub statistics" />
 </td>
 <td width="50%">
-  <img src="https://streak-stats.demolab.com?user=UjjvxL&hide_border=true&background=0B1220&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" width="100%" alt="Ujjval's GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UjjvxL&theme=github_dark" width="100%" alt="Ujjval's top languages by repository" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjvxL&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=10" width="55%" alt="Ujjval's most-used languages" />
+  <img src="https://streak-stats.demolab.com?user=UjjvxL&hide_border=true&background=0B1220&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" width="55%" alt="Ujjval's GitHub contribution streak" />
 </td>
 </tr>
 </table>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UjjvxL&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=2DD4BF&area=true&area_color=38BDF8&hide_border=true)](https://github.com/UjjvxL)
-
-<img src="https://github-profile-trophy.vercel.app/?username=UjjvxL&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6&row=1" width="100%" alt="GitHub achievement trophies" />
 
 ### Contribution snake
 
